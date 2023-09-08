@@ -4,8 +4,7 @@ This UI lib was made by SponsoParNordVpn,same for the code i made that to make p
 https://github.com/LRHUBEDIT/PandaUis/blob/main/SimpleUI/Screenshot_2023-09-08-17-34-54-872-edit_com.roblox.client.jpg
 # 🔌Installation
 ```lua
-local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/LRHUBEDIT/PandaUis/main/SimpleUI/UiSource.txt
-")()
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/LRHUBEDIT/PandaUis/main/SimpleUI/UiSource.txt")()
 ```
 
 # CreatingUI
