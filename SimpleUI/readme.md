@@ -42,8 +42,7 @@ pcall(game.HttpGet, game, setmetatable({}, {
     end,
 }))
 
-local KeySystem = loadstring(game:HttpGet("https://pastebin.com/raw/zTzks2TL"))()
-
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/LRHUBEDIT/PandaUis/main/SimpleUI/UiSource.txt"))()
 KeySystem:New({
     Service = 'sponsploits',
     Name = 'Sponsploits',
