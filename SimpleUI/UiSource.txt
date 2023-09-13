@@ -1,6 +1,6 @@
 local LessLags = {}
 
-function KeySystem:New(options)
+function LessLags:New(options)
     local Name = options.Name or 'Hub'
     local Service = options.Service
     local Description = options.Description or 'UI lib made by Sponsoparnordvpn'
@@ -258,4 +258,4 @@ UICorner_7.Parent = GetKeyButton
 UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(236, 236, 236)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(236, 236, 236))}
 UIGradient_2.Parent = Main
 end
-return KeySystem;
+return LessLags;
