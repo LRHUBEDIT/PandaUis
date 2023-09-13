@@ -1,4 +1,4 @@
-local KeySystem = {}
+local LessLags = {}
 
 function KeySystem:New(options)
     local Name = options.Name or 'Hub'
